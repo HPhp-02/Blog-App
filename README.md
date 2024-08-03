@@ -8,16 +8,11 @@ There is also a register page for becoming a verified user and login page to ent
 
 ## You can run this on your own computer by installing all the dependencies using npm
 <br>
-npm install<br>
-npm run dev<br>
+```npm install<br>
+   npm run dev<br>
 
-```python
-def greet(name):
-    return f"Hello, {name}!"
-
-print(greet("World"))
 
 ## Create .env File 
 <br>
-`MONGODB_URI=mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/blog
-JWT_SECRET=MySecretBlog`
+```MONGODB_URI=mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/blog
+JWT_SECRET=MySecretBlog
