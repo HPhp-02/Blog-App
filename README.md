@@ -10,12 +10,13 @@ There is also a register page for becoming a verified user and login page to ent
 <br>
 
 ```bash
-npm install<br>
-npm run dev<br>
+npm install
+npm run dev
+```
 
-
-## Create .env File 
+## Create .env File
 <br>
+
 ```bash
 MONGODB_URI=mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/blog
 JWT_SECRET=MySecretBlog
