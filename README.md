@@ -6,8 +6,9 @@ There is also a register page for becoming a verified user and login page to ent
 
 ## Preview of the Page
 <br>
-<br>
-![image](https://github.com/user-attachments/assets/d44c8a86-f1a3-4392-943f-ae04762744d8)
+
+![image](https://github.com/user-attachments/assets/9e17c10c-9b60-42ea-b7b7-f476612d559d)
+
 
 ## You can run this on your own computer by installing all the dependencies using npm
 <br>
