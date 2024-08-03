@@ -8,6 +8,7 @@ There is also a register page for becoming a verified user and login page to ent
 
 ## You can run this on your own computer by installing all the dependencies using npm
 <br>
+
 ```bash
 npm install<br>
 npm run dev<br>
