@@ -8,13 +8,13 @@ There is also a register page for becoming a verified user and login page to ent
 
 ## You can run this on your own computer by installing all the dependencies using npm
 <br>
-```nodejs
+```bash
 npm install<br>
 npm run dev<br>
 
 
 ## Create .env File 
 <br>
-```.env
+```bash
 MONGODB_URI=mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/blog
 JWT_SECRET=MySecretBlog
