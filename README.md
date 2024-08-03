@@ -6,8 +6,8 @@ Built using NodeJs Express , Ejs and Mongodb <br>
 
 ## You can run this on your own computer by installing all the dependencies using npm
 <br>
-`npm install`<br>
-`npm run dev`<br>
+```npm install```<br>
+```npm run dev```<br>
 
 ## Create .env File 
 <br>
