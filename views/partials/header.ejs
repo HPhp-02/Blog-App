@@ -1,0 +1,27 @@
+<header class="header">
+    
+    <nav class="header__nav">
+        <ul>
+        <li>
+        <a href="/" class="header__logo">NodeJs</a>
+        </li>
+        <li>
+         <a href="/" class="<%= isActiveRoute('/',currentRoute) %>">Home</a>
+        </li>
+        <li>
+            <a href="/about" class="<%= isActiveRoute('/about',currentRoute) %>">About</a>
+        </li>
+        <li>
+            <a href="/admin" class="<%= isActiveRoute('/',currentRoute) %>">Login</a>
+        </li>
+        <li>
+            <a href="/register" class="<%= isActiveRoute('/',currentRoute) %>">Register</a>
+        </li>
+     </ul>
+    </nav>
+    <!-- <div class="header__button">
+        <button class="searchBtn" aria-expanded="false">
+            Search
+        </button>
+    </div> -->
+</header>
